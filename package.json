@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "basiclightbox": "^5.0.2",
+    "basiclightbox": "^5.0.3",
     "kelvin-to-celsius": "^1.1.0",
     "tiny-slider": "^2.9.1"
   }
