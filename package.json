@@ -15,7 +15,7 @@
     "autoprefixer": "^9.4.7",
     "node-sass": "^4.11.0",
     "parcel-bundler": "^1.11.0",
-    "sass": "^1.16.1"
+    "sass": "^1.26.9"
   },
   "dependencies": {
     "axios": "^0.18.0",
